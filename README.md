@@ -1,0 +1,1 @@
+A simple react calculator application which can perform 'add', 'minus', 'multiply', 'divid','resetInput', and 'resetResult'
